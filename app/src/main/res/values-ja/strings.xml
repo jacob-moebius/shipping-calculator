@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="added_cost">追加費用：</string>
+    <string name="app_name">"送料計算機 "</string>
+    <string name="base_cost">"基本費用： "</string>
+    <string name="enter_weight_of_package">"パッケージの重量を入力してください "</string>
+    <string name="in_ounces">"（オンス） "</string>
+    <string name="total_shipping_cost">"送料合計： "</string>
+    <string name="weight_of_package">"パッケージの重量 "</string>
+</resources>
